@@ -9,7 +9,7 @@ This project was using CV for python library called CV2, create an algorithm for
 </br> ![image](https://user-images.githubusercontent.com/82415308/227801293-6b391bec-8f8a-450f-94c9-29ba152bf870.png)
 
 </br> [Ryze Tello Sdk](https://dl-cdn.ryzerobotics.com/downloads/Tello/Tello%20SDK%202.0%20User%20Guide.pdf)
-# Struggles
+# Challenges/Struggles
 - Using windows as operating system might slow real time communication with the drone, use linux instead, since the packet transfer is done with UDP, windows tends to hold on to the packets and result in packet loss to the drone. It's a problem because a packet contains a command for the drone to do, so if it goes to waste then the drone might be waiting for commands but not recieving any.
 - Creating a multithreaded algorithm for recieving images in real time and processing them on another thread, and sending commands to the drone on another thread.
 - Navigate the drone across the room using different markers, by calculating thier distances and angles from the drone, was a headache using CV arucodetect module, and using mathematical equations to calculate the distance using the optical focal length of the pinhole camera of the drone.
