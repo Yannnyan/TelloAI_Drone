@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/82415308/227801174-a12611f7-bb79-43f5-a299-70488acc5429.png)
 
 # Overview
-This project was using CV for python library called CV2, create an algorithm for flying a drone in space in real time using image processing, and computer vision to detect aruco makers, estimate thier distances and angles from the drone, and then fly the drone using the markers as a guidance helper, to navigate through the room and through challenges set across it, such as flying inside a passage, and flying upwards the stairs, and rotating and mantaining balance in the room. 
+Project Details: Using CV for python library called CV2, create an algorithm for flying a drone in space in real time using image processing, and computer vision to detect aruco makers, estimate thier distances and angles from the drone, and then fly the drone using the markers as a guidance helper, to navigate through the room and through challenges set across it, such as flying inside a passage, and flying upwards the stairs, and rotating and mantaining balance in the room. 
 </br> Using small edu drones, and thier SDK(Software Developement Kit) for giving them commands to follow such as, go forward turn clockwise, etc... 
 </br> ![image](https://user-images.githubusercontent.com/82415308/227801293-6b391bec-8f8a-450f-94c9-29ba152bf870.png)
 
