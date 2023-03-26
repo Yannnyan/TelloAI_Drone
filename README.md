@@ -1,4 +1,5 @@
 # TelloAI_Drone
+- Drones - using the 100 gram 100$ Tello Drones. </br>
 - Drones competition in uni where I won second place </br>
 - Video of the Competition: [Click me](https://www.youtube.com/watch?v=LKo4dLLlFnk) </br>
 ![image](https://user-images.githubusercontent.com/82415308/227801174-a12611f7-bb79-43f5-a299-70488acc5429.png)
@@ -19,6 +20,11 @@ This project was using CV for python library called CV2, create an algorithm for
 # Images And Extra Visualization
 ### The Competition's Route
 ![image](https://user-images.githubusercontent.com/82415308/227801566-7448a8f0-43f6-451c-9e69-b6adbff0e26d.png)
+![image](https://user-images.githubusercontent.com/82415308/227801663-143468c4-2484-4ca2-925f-85437a777c3f.png)
+### Drone Size Comparison
+![image](https://user-images.githubusercontent.com/82415308/227801687-0ea3364e-8b97-43ce-8520-b7fb120d4eeb.png)
+### Group Picture
+![image](https://user-images.githubusercontent.com/82415308/227801817-9f5352f4-572c-4edb-a043-29caae2cbe5f.png)
 
 # Extra Project Documentations and summary
 Link for event summary and description : https://docs.google.com/document/d/1xSagBC9Kp3lFaz0BnJAtK0Gy1gmYUMocNU_cYfQpZbs/edit </br>
