@@ -1,5 +1,6 @@
 # TelloAI_Drone
 Drones competition in uni where I won second place
+Video of the Competition: https://www.youtube.com/watch?v=LKo4dLLlFnk
 
 # Overview
 This project was using CV for python library called CV2, create an algorithm for flying a drone in space in real time using image processing, and computer vision to detect aruco makers, estimate thier distances and angles from the drone, and then fly the drone using the markers as a guidance helper, to navigate through the room and through challenges set across it, such as flying inside a passage, and flying upwards the stairs, and rotating and mantaining balance in the room. 
